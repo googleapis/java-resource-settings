@@ -73,8 +73,8 @@ public final class ResourceSettingsProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "8google/cloud/resourcesettings/v1/resource_settings.proto\022 google.cloud.resourc"
-          + "esettings.v1\032\034google/api/annotations.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\"\267\003\n"
+          + "8google/cloud/resourcesettings/v1/resource_settings.proto\022"
+          + " google.cloud.resourcesettings.v1\032\034google/api/annotations.proto\032\027google/api/client.proto\032\037google/api/field_behavior.proto\032\031google/api/resource.proto\"\267\003\n"
           + "\007Setting\022\014\n"
           + "\004name\030\001 \001(\t\022H\n"
           + "\010metadata\030\007"
@@ -146,8 +146,7 @@ public final class ResourceSettingsProto {
           + "UpdateSetting\0226.google.cloud.resourcesettings.v1.UpdateSettingRequest\032).google."
           + "cloud.resourcesettings.v1.Setting\"\250\001\202\323\344\223"
           + "\002\241\0012-/v1/{setting.name=organizations/*/s"
-          + "ettings/*}:\007settingZ22\'/v1/{setting.name"
-          + "=folders/*/settings/*}:\007settingZ32(/v1/{setting.name=projects/*/settings/*}:\007setting\032S\312A\037resourcesettings.googleapis.com\322A.https://www.googleapis.com/auth/cloud-platformB\200\002\n"
+          + "ettings/*}:\007settingZ22\'/v1/{setting.name=folders/*/settings/*}:\007settingZ32(/v1/{setting.name=projects/*/settings/*}:\007setting\032S\312A\037resourcesettings.googleapis.com\322A.https://www.googleapis.com/auth/cloud-platformB\200\002\n"
           + "$com.google.cloud.resourcesettings.v1B\025ResourceSettingsProtoP\001ZPgoo"
           + "gle.golang.org/genproto/googleapis/cloud"
           + "/resourcesettings/v1;resourcesettings\370\001\001\252\002"
