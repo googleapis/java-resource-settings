@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/googleapis/java-resource-settings/compare/v1.3.4...v1.3.5) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([78114fb](https://github.com/googleapis/java-resource-settings/commit/78114fb17accfd069bfcc27aff5ef0308a3432e5))
+
 ## [1.3.4](https://github.com/googleapis/java-resource-settings/compare/v1.3.3...v1.3.4) (2022-10-03)
 
 
